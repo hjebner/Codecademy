@@ -1,0 +1,76 @@
+.Empresa {
+  background-image: url('https://content.codecademy.com/courses/freelance-1/unit-2/pattern.jpeg');
+  font-family: Helvetica;
+  font-size: 100px;
+  font-size: bold;
+  color: khaki;
+  text-align: center;
+}
+
+.Brushes h2 {
+  font-size: 32px;
+  font-family: Helvetica;
+  font-weight: bold;
+  color: white;
+  background-color: mediumspringgreen;
+}
+
+p {
+  font-size: 20px;
+}
+
+.Brushes1 {
+  font-weight: bold;
+  font-size: 20px;
+  margin-top: 20px;
+}
+
+.Brushes span {
+  font-family: Helvetica;
+  font-weight: bold;
+  color: blue;
+  font-size: 18px;
+}
+
+.Frames h2{
+  font-size: 32px;
+  font-family: Helvetica;
+  font-weight: bold;
+  color: white;
+  background-color: lightcoral;
+}
+
+.Frames1 {
+  font-weight: bold;
+  font-size: 20px;
+  margin-top: 20px;
+}
+
+
+.Frames span {
+  font-family: Helvetica;
+  font-weight: bold;
+  color: blue;
+  font-size: 18px;
+}
+
+.Paint h2 {
+  ont-size: 32px;
+  font-family: Helvetica;
+  font-weight: bold;
+  color: white;
+  background-color: skyblue;
+}
+
+.Paint1 {
+  font-weight: bold;
+  font-size: 20px;
+  margin-top: 20px;
+}
+
+.Paint span {
+  font-family: Helvetica;
+  font-weight: bold;
+  color: blue;
+  font-size: 18px;
+}
